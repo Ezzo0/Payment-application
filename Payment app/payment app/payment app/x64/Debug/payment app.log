@@ -1,0 +1,10 @@
+﻿  application.c
+  card.c
+D:\FWD projects\Payment app\payment app\payment app\card.c(10,2): warning C4013: 'gets' undefined; assuming extern returning int
+D:\FWD projects\Payment app\payment app\payment app\card.c(16,8): warning C4013: 'isalpha' undefined; assuming extern returning int
+D:\FWD projects\Payment app\payment app\payment app\card.c(36,7): warning C4013: 'isdigit' undefined; assuming extern returning int
+  main.c
+  server.c
+  terminal.c
+  Generating Code...
+  payment app.vcxproj -> D:\FWD projects\Payment app\payment app\x64\Debug\payment app.exe
