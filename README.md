@@ -5,8 +5,8 @@ This is a Payment Application Simulation project for the EgFWD Embedded Systems 
 ![payment-flowchart](https://user-images.githubusercontent.com/62207434/183305187-4d1241fb-fa97-4daf-8a6b-a1f41a540ac7.jpg)
 
 ## Functions
-- `appStart()` : this would be called in `Main.c` to start the application
-- `getTransactionDate()` : retrieve `System Date` automatically
-- `getCardPAN()` : this functions asks to enter manually card PAN
-- `saveTransaction()` : saves all types of transactions with all details into the transactions database
-- - `getTransaction()` : check if the transactions is saved or not
+- `appStart()` : this would be called in `Main.c` to start the application.
+- `getTransactionDate()` : retrieve `System Date` automatically in the form `DD/MM/YYYY`.
+- `getCardPAN()` : this functions asks to enter manually card PAN.
+- `saveTransaction()` : saves all types of transactions with all details into the transactions database.
+- `getTransaction()` : check if the transactions is saved or not.
