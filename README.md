@@ -1,5 +1,5 @@
 # Payment Application Simulation
-This is a simulation for sale transaction for the embedded systems profissional track by Egypt FWD and udacity. This project was written in C.
+This is a simulation for sale transaction.
 
 ## Flowchart
 ![payment-flowchart](https://user-images.githubusercontent.com/62207434/183305187-4d1241fb-fa97-4daf-8a6b-a1f41a540ac7.jpg)
